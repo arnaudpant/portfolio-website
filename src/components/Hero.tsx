@@ -11,4 +11,4 @@ const Hero = () => {
 
 export default Hero;
 
-// 20:29
+// 27:52
